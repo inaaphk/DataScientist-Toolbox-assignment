@@ -1,7 +1,7 @@
 # Assignment
 ## for Data Scientist Toolbox
 As part of Johns Hopkins University course
---
+
 ## Prepared:
 by C Pintassilgo
 

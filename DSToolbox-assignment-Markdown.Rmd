@@ -1,0 +1,14 @@
+---
+title: "DSToolbox_Assignment"
+author: "CP"
+date: "2022-09-19"
+output: html_document
+---
+
+## Training with R
+
+Following completion of the 4 week training in Data Scientist Toolbox, user is now ready to begin the second course of the program by *Johns Hopkins University* in **R programming**.
+
+```{r}
+print("User status changed from Unexperienced to Beginner")
+```
